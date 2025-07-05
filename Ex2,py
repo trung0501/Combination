@@ -1,0 +1,16 @@
+def factorial(n):
+    result = 1
+    for i in range(2, n + 1):
+        result *= i
+    return result
+
+def combination(n, k):
+    return factorial(n) // (factorial(k) * factorial(n - k))
+
+choose_3_from_45 = combination(45, 3)
+choose_4_from_57 = combination(57, 4)
+choose_5_from_69 = combination(69, 5)
+
+total_ways = choose_3_from_45 * choose_4_from_57 * choose_5_from_69
+
+print("The number of ways to select 12 countries into the council:", total_ways)
