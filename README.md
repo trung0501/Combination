@@ -13,3 +13,5 @@ The first group has 2 people, and they want to purchase 2 adjacent lots.
 The second group has 3 people, and they want to purchase 3 adjacent lots.
 They find a land area that is divided into 7 equally sized adjacent lots, all of which are still available for purchase (i.e., no one has bought any lots yet).
 How many different ways are there to assign the lots to each individual in both groups, satisfying the above conditions?
+
+Ex5: For a convex polygon with 10 sides, how many diagonals does it have?
