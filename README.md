@@ -15,3 +15,6 @@ They find a land area that is divided into 7 equally sized adjacent lots, all of
 How many different ways are there to assign the lots to each individual in both groups, satisfying the above conditions?
 
 Ex5: For a convex polygon with 10 sides, how many diagonals does it have?
+
+Ex6: In a plane, there are 𝑛 points such that no three of them are collinear. Among all the lines connecting every pair of distinct points, no two lines are parallel, coincident, or perpendicular.
+From each point, draw lines that are perpendicular to the lines determined by choosing 2 out of the remaining (n−1) points. What is the maximum number of intersections that can occur among all such perpendicular lines?
